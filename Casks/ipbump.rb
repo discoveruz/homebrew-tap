@@ -1,6 +1,6 @@
 cask "ipbump" do
-  version "2.3.0"
-  sha256 "84122ee06bf371824b9064436b90fd8dc64a8a764334602d9472cac550488914"
+  version "2.3.1"
+  sha256 "d5bc3f83f58f1cc300fbbd61313dfb55eed83b8ce554aa70e6e2368a064a737f"
 
   url "https://github.com/discoveruz/IpBump/releases/download/v#{version}/IpBump-#{version}.pkg"
   name "IpBump"
